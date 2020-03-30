@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev -p 8000",
     "build": "next build",
-    "start": "next start -p 8001"
+    "start": "next start -p 8001",
+    "export": "next export",
+    "deploy": "npm run build && npm run export"
   },
   "eslintConfig": {
     "extends": "react-app"
