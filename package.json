@@ -16,7 +16,7 @@
     "@ant-design/icons": "^4.0.5",
     "antd": "^4.1.0",
     "codemirror": "^5.52.2",
-    "graphiql": "^0.17.5",
+    "graphiql": "^1.4.7",
     "graphiql-explorer": "^0.5.1",
     "graphql": "^14.6.0",
     "next": "9.3.2",
